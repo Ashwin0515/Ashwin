@@ -1,0 +1,3 @@
+print("Welcome to the improvised Python app using GitHub Copilot")
+if __name__ == "__main__":
+    main()
